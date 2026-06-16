@@ -1,5 +1,6 @@
 # 조범상 | Backend Developer
 
+Fast Api 
 Spring Boot와 PostgreSQL  
 
 ## GitHub Stats

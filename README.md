@@ -1,3 +1,6 @@
-# Hi there 👋
+## GitHub Stats
 
-[![GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cbs001022&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbs001022&layout=compact&theme=transparent" />
+</p>

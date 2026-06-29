@@ -3,7 +3,7 @@
 Fast Api 
 Spring Boot와 PostgreSQL  
 
-## GitHub Stats
+## GitHub Status
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cho1022&show_icons=true&theme=tokyonight" />

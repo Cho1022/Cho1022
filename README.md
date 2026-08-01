@@ -1,4 +1,4 @@
-<h1 aling = "center"> # 조범상 | Backend Developer</h1>
+<h1 align="center">조범상 | Backend Developer</h1>
 
 <h2 align="center">💻 Tech Stack 💻</h2>
 <p align="center">

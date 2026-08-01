@@ -13,8 +13,4 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 ## GitHub Status
-
-<p align="center">
-  <img height="180" src="./profile/stats.svg" alt="Cho1022 GitHub Stats" />
-  <img height="180" src="./profile/top-langs.svg" alt="Cho1022 Top Languages" />
-</p>
+<p align="center"><img height="160" align="center" src="./profile/stats.svg" alt="Cho1022 GitHub Stats" /> <img height="160" align="center" src="./profile/top-langs.svg" alt="Cho1022 Top Languages" /></p>
